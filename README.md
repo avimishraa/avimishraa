@@ -106,4 +106,4 @@
 
 \<p>&nbsp;\<img align="center" src="[https://github-readme-stats.vercel.app/api?username=avimishraa&show\_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=avimishraa\&show_icons=true\&locale=en)" alt="avimishraa" />\</p>
 
-\<p>\<img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=avimishraa&](https://github-readme-streak-stats.herokuapp.com/?user=avimishraa&)" alt="avimishraa" />\</p>.
+\<p>\<img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=avimishraa&](https://github-readme-streak-stats.herokuapp.com/?user=avimishraa&)" alt="avimishraa" />\</p>
