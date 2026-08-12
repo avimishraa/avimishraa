@@ -1,4 +1,3 @@
-```markdown
 ![logo](https://github.com/avimishraa/avimishraa/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Avinash Mishra</h1>
@@ -133,6 +132,4 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avimishraa" alt="avimishraa" />
-</p>
-```
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avimishraa" alt="avimishraa" /></p>
