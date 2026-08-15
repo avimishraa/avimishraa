@@ -16,7 +16,7 @@
 </p>
 
 - 📫 How to reach me **avimishra3752@gmail.com**
-- ⚡ Fun fact **I am Funny**
+-  Only Coding and Design
 
 <h3 align="left">Connect with me:</h3>
 
@@ -134,5 +134,5 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=avimishraa" alt="Avinash Mishra GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=avimishraa" alt="Avinash Mishra GitHub Streak" />
 </p>
