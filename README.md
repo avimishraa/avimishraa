@@ -123,13 +123,16 @@
 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avimishraa&show_icons=true&locale=en&layout=compact" alt="avimishraa" />
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=avimishraa&show_icons=true&locale=en" alt="Avinash Mishra GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=avimishraa&show_icons=true&locale=en" alt="avimishraa" />
+<p align="left">
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs?username=avimishraa&layout=compact&locale=en" alt="Avinash Mishra Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avimishraa" alt="avimishraa" /></p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=avimishraa" alt="Avinash Mishra GitHub Streak" />
+</p>
