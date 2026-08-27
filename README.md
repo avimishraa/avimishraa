@@ -118,17 +118,3 @@
   </a>
 
 </p>
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats-extended.vercel.app/api?username=avimishraa&show_icons=true&locale=en" alt="Avinash Mishra GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs?username=avimishraa&layout=compact&locale=en" alt="Avinash Mishra Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=avimishraa" alt="Avinash Mishra GitHub Streak" />
-</p>
