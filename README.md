@@ -43,4 +43,4 @@ Exploring **Backend Engineering, Microservices, Kafka, DevOps, Cybersecurity & A
 
 [![GitHub](https://img.shields.io/badge/GitHub-avimishraa-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/avimishraa)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avinash-Mishra01-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/avinash-mishra01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avinash--Mishra01-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-mishra01)
