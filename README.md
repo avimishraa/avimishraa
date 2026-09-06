@@ -39,8 +39,8 @@ Exploring **Backend Engineering, Microservices, Kafka, DevOps, Cybersecurity & A
 
 ### 🔗 Coding & Social
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-avimishraa011-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/avimishraa011/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-avimishraa011-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/avimishra011/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-avimishraa-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/avimishraa)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avinash%20Pandit-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/avinash-mishra01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avinash%20Mishra01-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/avinash-mishra01)
