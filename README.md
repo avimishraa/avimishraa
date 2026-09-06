@@ -1,22 +1,22 @@
-# Hi 👋, I'm Avinash Pandit
+# Hi 👋, I'm Avinash Mishra
 
-### 💻 Computer Science Engineering Student | Software Developer | Cybersecurity Enthusiast
+### 💻 Computer Science Engineering Student | Software Developer | Full Stack Developer | DevOps Engineer | Cybersecurity Enthusiast
 
-Passionate about **DSA, Backend Development, Distributed Systems, and Cybersecurity**. I enjoy solving problems and building practical, scalable software solutions.
+Passionate about **DSA, Full stack development, AI/ML and Cybersecurity**. I enjoy solving problems and building practical, scalable software solutions.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:** C++ · Java · Python · JavaScript · SQL
+**Languages:** C++ · Python · JavaScript · SQL
 
 **Development:** React · Node.js · REST APIs · Microservices
 
-**Systems & DevOps:** Kafka · Docker · Jenkins · CI/CD · Linux
+**Databases:** MySql · MongoDB
 
-**Core CS:** DSA · OOP · DBMS · OS · Computer Networks
+**Systems & DevOps:** Kafka · Docker · Jenkins · CI/CD · Linux · Git · GitHub
 
-**Cybersecurity:** Cryptography · Network Security · HTTP/HTTPS · TLS
+**Core CS:** DSA · OOP · DBMS · OS · Computer Networks · System Design Fundamentals
 
 ---
 
