@@ -27,6 +27,9 @@ Passionate about **DSA, Full stack development, AI/ML and Cybersecurity**. I enj
 * 🚀 **2× College-level Smart India Hackathon selections**
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com/?user=avimishraa&theme=radical)
+
+---
 
 ### 🎯 Currently
 
