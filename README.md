@@ -8,13 +8,13 @@ Passionate about **DSA, Full stack development, AI/ML and Cybersecurity**. I enj
 
 ### 🛠️ Tech Stack
 
-**Languages:** C++ · Python · JavaScript · SQL
+**Languages:** C++ · JavaScript · SQL
 
-**Development:** React · Node.js · REST APIs · Microservices
+**Development:** React · Node.js · Express · REST APIs · Microservices
 
 **Databases:** MySql · MongoDB
 
-**Systems & DevOps:** Kafka · Docker · Jenkins · CI/CD · Linux · Git · GitHub
+**Systems & DevOps:**  Jenkins · CI/CD · Linux · Git · GitHub · Postman
 
 **Core CS:** DSA · OOP · DBMS · OS · Computer Networks · System Design Fundamentals
 
